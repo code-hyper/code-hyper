@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @code-hyper
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning [Gulp](https://gulpjs.com/) & [Sass](https://sass-lang.com/)
+- 🌱 I’m currently learning [Vue 3](https://vuejs.org/) & [Vite](https://vitejs.dev/)
 - :rocket: I’m currently working on [vecto.ai](https://vecto.ai)
 
 <!---
