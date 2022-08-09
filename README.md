@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @code-hyper
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning [Vue 3](https://vuejs.org/) & [Vite](https://vitejs.dev/)
-- :rocket: I’m currently working on [vecto.ai](https://vecto.ai)
+- 🌱 I’m currently learning React
 
 <!---
 code-hyper/code-hyper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
